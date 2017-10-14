@@ -6,6 +6,9 @@
 int roll(int die[]);
 void helpPage(void);
 
+/*
+ * Test
+ * */
 
 int main(int argc, char ** argv)
 {
