@@ -6,9 +6,15 @@
 int roll(int die[]);
 void helpPage(void);
 
+/*
+ * Test
+ * */
 
 int main(int argc, char ** argv)
 {
+    prinf('hello\n');
+
+
 	int D4[4] = { 1, 2, 3, 4 };
 	int D6[6] = { 1, 2, 3 ,4, 5, 6 };
 	int D8[8] = { 1, 2, 3, 4, 5, 6, 7, 8 };
